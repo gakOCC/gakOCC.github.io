@@ -1,0 +1,96 @@
+#container{
+    max-width: 100%;
+    display: block;
+}
+
+#banner{
+    width:100%;
+    height: 40px;
+    padding: 0px 0px;
+    background-color: black;
+    position: relative;
+}
+
+#bannerP1{
+    color: wheat;
+    position: absolute;
+    text-align: center;
+    height: 10px;
+    margin-top: 10px;
+    margin-left: 45vw;
+}
+
+#bannerElement{
+    text-decoration: none;
+    color: lightblue;
+    position: relative;
+    text-align: left;
+    font-size: large;
+    right: 42vw;
+}
+
+#bannerElementTwo{
+    text-decoration: none;
+    color: lightblue;
+    position: relative;
+    text-align: left;
+    font-size: large;
+    right: 43vw;
+}
+
+#bannerElementThree{
+    text-decoration: none;
+    color: lightblue;
+    position: relative;
+    text-align: left;
+    font-size: large;
+    left:40vw;
+}
+
+#introduction{
+    width: 100%;
+    position: relative;
+
+    padding-top: 16px;
+    display: block;
+}
+
+#name{
+    text-align: center;
+}
+
+#bio{
+    text-align: center;
+}
+
+#classes{
+    text-align: center;
+}
+
+#classesList{
+    width: 740px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#description{
+    text-align: center;
+}
+
+#projects{
+    width: 740px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+}
